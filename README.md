@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! I'm Judy and I enjoy designing and developing new things (∩^o^)⊃━☆゜.*✨
 
 <!--
 **wongjwm/wongjwm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
