@@ -1,5 +1,6 @@
 ### Hello! I'm Judy and I enjoy designing and developing new things (∩^o^)⊃━☆゜.*✨
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wongjwm)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **wongjwm/wongjwm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
